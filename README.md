@@ -8,7 +8,7 @@
 
 <p> O nome ''EMIP Quaesitus'' apresenta, primeiro, o nome da Escola e, depois, ''Quaesitus'', que significa ''procura'' em latim. 
 
-Obs: por questões éticas e ligadas a LGPD, os nome contidos no arquivo alunos.csv são puramente ficcionais. Utilizou-se de nomes de figuras históricas, mitológicas e da combinação de nomes e sobrenomes comuns no Brasil, de forma que qualquer coinciência com algum nome de algum aluno seja mera coincidência.
+Obs: por questões éticas e ligadas a LGPD, os nome contidos no arquivo alunos.csv são puramente ficcionais. Utilizou-se de nomes de figuras históricas, mitológicas e da combinação de nomes e sobrenomes comuns no Brasil, de forma que qualquer semelhança com algum nome de algum aluno seja mera coincidência.
 
 
 
